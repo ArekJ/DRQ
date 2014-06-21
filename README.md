@@ -1,0 +1,4 @@
+DRQ
+===
+
+Dictionary Random Querier
